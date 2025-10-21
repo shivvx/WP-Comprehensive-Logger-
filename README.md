@@ -141,7 +141,6 @@ Built for agencies, developers, and power users who want *complete visibility* a
 ```bash
 📂 auxra-comprehensive-logger/
 ├── 📄 auxra-comprehensive-logger.php        # Main plugin bootstrap
-│
 ├── 📂 includes/
 │   ├── 📄 class-auxra-logger.php            # Core logging engine
 │   ├── 📄 class-telegram-logger.php         # Telegram integration
@@ -150,14 +149,12 @@ Built for agencies, developers, and power users who want *complete visibility* a
 │   ├── 📄 class-woocommerce-logger.php      # WooCommerce event logging
 │   ├── 📄 class-cpanel-logger.php           # CPanel monitoring integration
 │   └── 📄 class-admin-settings.php          # Admin panel + settings management
-│
 ├── 📂 assets/
 │   ├── 📂 css/
 │   │   └── 📄 admin.css                     # Admin interface styles
 │   └── 📂 js/
 │       └── 📄 admin.js                      # Admin-side JavaScript
-│
-└── 📄 TODO.md                               # Development notes``
+└── 📄 TODO.md                               # Development notes
 ```
 ---
 
